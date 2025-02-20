@@ -20,3 +20,7 @@ None
 
 ## Created by
 Enzo Cece
+
+
+changes: added music, added background, added a different enemy
+
